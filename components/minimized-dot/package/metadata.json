@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Id": "org.vi.minimizeddot",
+        "Name": "Minimized Dot",
+        "Description": "Точка со счётчиком открытых окон; при наведении раскрывается в ряд иконок",
+        "Icon": "window-minimize",
+        "Authors": [{ "Name": "vi" }],
+        "Category": "Windows and Tasks",
+        "License": "MIT",
+        "Version": "1.1"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

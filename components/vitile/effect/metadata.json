@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "KWin/Effect",
+    "KPlugin": {
+        "Authors": [{ "Name": "vi" }],
+        "Category": "Appearance",
+        "Description": "Анимации vitile: появление, закрытие, сворачивание и плавная перестройка плитки",
+        "EnabledByDefault": false,
+        "Id": "vitile_motion",
+        "License": "MIT",
+        "Name": "vitile: анимации"
+    },
+    "X-KDE-Ordering": 60,
+    "X-Plasma-API": "javascript"
+}

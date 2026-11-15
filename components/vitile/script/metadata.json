@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Id": "vitile",
+        "Name": "vitile",
+        "Description": "Простая плитка окон: отступы, половинки, перестановка",
+        "Version": "0.1",
+        "License": "MIT",
+        "EnabledByDefault": false,
+        "Authors": [{ "Name": "vi" }]
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}

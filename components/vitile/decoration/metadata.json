@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Name": "vitile",
+        "Description": "Рамка vitile: тонкая обводка и скруглённые углы для окон в плитке, заголовок для остальных",
+        "Authors": [
+            {
+                "Name": "vi"
+            }
+        ],
+        "License": "MIT",
+        "Version": "0.1"
+    },
+    "org.kde.kdecoration3": {
+        "blur": false,
+        "recommendedBorderSize": "None"
+    }
+}

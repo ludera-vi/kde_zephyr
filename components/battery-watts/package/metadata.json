@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Id": "org.vi.batterywatts",
+        "Name": "Battery Watts",
+        "Description": "Температуры CPU и GPU, расход батареи в ваттах",
+        "Icon": "battery-discharging",
+        "Authors": [{ "Name": "vi" }],
+        "Category": "System Information",
+        "License": "MIT",
+        "Version": "1.0"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

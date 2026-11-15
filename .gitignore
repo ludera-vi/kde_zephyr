@@ -1,0 +1,11 @@
+# сборка
+build/
+__pycache__/
+*.pyc
+compile_commands.json
+# состояние установки на этой машине (не для репозитория)
+components/vitile/.backup.json
+components/vitile/.theme
+components/vitile/help.html
+# asus-helper скачивается установщиком
+components/asus-helper/src/

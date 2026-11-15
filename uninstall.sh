@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Удалить компоненты kde_zephyr: ./uninstall.sh (выбор из установленных) или ./uninstall.sh имя…
+exec "$(dirname "$(readlink -f "$0")")/install.sh" --uninstall "$@"

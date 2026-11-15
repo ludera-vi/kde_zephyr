@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Zephyr Search
+Comment=Fast launcher: apps, settings, files and folders
+Comment[ru]=Быстрый поиск приложений, настроек, файлов и папок
+Exec=zephyr-search
+Icon=search
+Categories=Utility;
+X-KDE-Shortcuts=Alt+Space
+X-GNOME-Autostart-enabled=true
